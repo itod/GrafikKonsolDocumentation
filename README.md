@@ -1,3 +1,5 @@
+<html>
+
 <h1>Graphik Konsol Documentation</h1>
 
 <h2>Konsol Skript Function Reference</h2>
@@ -30,10 +32,6 @@
                     A new array object.
                 </td>
             </tr>
-            <!-- <tr>
-                <td><b>Related</b></td>
-                <td></td>
-            </tr> -->
         </table>
     </p>
 </div>
@@ -2586,3 +2584,5 @@
         </table>
     </p>
 </div>
+
+</html>
