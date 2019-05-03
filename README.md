@@ -1,4 +1,4 @@
-<html>
+{::nomarkdown}
 
 <h1>Graphik Konsol Documentation</h1>
 
@@ -2776,5 +2776,4 @@
         </table>
     </p>
 </div>
-
-</html>
+{:/}
