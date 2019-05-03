@@ -9,9 +9,6 @@
 
 <h1>Graphik Konsol Documentation</h1>
 
-
-
-
 <h2>Konsol Skript Function Reference</h2>
 
 <div>
