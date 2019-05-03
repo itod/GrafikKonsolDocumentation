@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8"/>
-  <meta http-equiv="x-ua-compatible" content="ie=edge"/>
-  <title>Graphik Konsol Documentation</title>
-</head>
-<body>
-
 <h1>Graphik Konsol Documentation</h1>
 
 <h2>Konsol Skript Function Reference</h2>
@@ -2595,6 +2586,3 @@
         </table>
     </p>
 </div>
-
-</body>
-</html>
