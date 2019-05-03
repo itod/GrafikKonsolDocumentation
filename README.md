@@ -9,15 +9,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>Array()</b></td>
+                <td><b>Array()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>Array</b>
                         (array?)
@@ -26,14 +26,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>array?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>array?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -48,15 +54,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>Boolean()</b></td>
+                <td><b>Boolean()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>Boolean</b>
                         (object?)
@@ -65,14 +71,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>object?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>object?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -87,15 +99,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>Dictionary()</b></td>
+                <td><b>Dictionary()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>Dictionary</b>
                         (dictionary?)
@@ -104,14 +116,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>dictionary?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>dictionary?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -126,15 +144,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>Number()</b></td>
+                <td><b>Number()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>Number</b>
                         (object?)
@@ -143,14 +161,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>object?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>object?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -165,15 +189,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>String()</b></td>
+                <td><b>String()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>String</b>
                         (object?)
@@ -182,14 +206,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>object?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>object?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -204,15 +234,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>abs()</b></td>
+                <td><b>abs()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>abs</b>
                         (n)
@@ -221,14 +251,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>n</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>n</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -243,15 +279,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>acos()</b></td>
+                <td><b>acos()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>acos</b>
                         (n)
@@ -260,14 +296,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>n</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>n</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -282,15 +324,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>arc()</b></td>
+                <td><b>arc()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>arc</b>
                         (x, y, radius, startAngle, endAngle, clockwise)
@@ -299,29 +341,45 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>x</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>y</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>radius</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>startAngle</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>endAngle</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>clockwise</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>x</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>y</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>radius</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>startAngle</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>endAngle</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>clockwise</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -336,15 +394,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>asin()</b></td>
+                <td><b>asin()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>asin</b>
                         (n)
@@ -353,14 +411,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>n</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>n</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -375,15 +439,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>assert()</b></td>
+                <td><b>assert()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>assert</b>
                         (test, message?)
@@ -392,17 +456,25 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>test</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>message?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>test</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>message?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -417,15 +489,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>atan()</b></td>
+                <td><b>atan()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>atan</b>
                         (n)
@@ -434,14 +506,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>n</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>n</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -456,15 +534,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>atan2()</b></td>
+                <td><b>atan2()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>atan2</b>
                         (y, x)
@@ -473,17 +551,25 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>y</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>x</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>y</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>x</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -498,15 +584,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>background()</b></td>
+                <td><b>background()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>background</b>
                         (color?)
@@ -515,14 +601,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>color?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>color?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -537,15 +629,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>bezier()</b></td>
+                <td><b>bezier()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>bezier</b>
                         (x1, y1?, x2?, y2?, x3?, y3?, x4?, y4?)
@@ -554,35 +646,55 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>x1</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>y1?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>x2?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>y2?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>x3?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>y3?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>x4?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>y4?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>x1</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>y1?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>x2?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>y2?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>x3?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>y3?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>x4?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>y4?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -597,15 +709,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>ceil()</b></td>
+                <td><b>ceil()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>ceil</b>
                         (n)
@@ -614,14 +726,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>n</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>n</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -636,15 +754,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>compare()</b></td>
+                <td><b>compare()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>compare</b>
                         (lhs, rhs)
@@ -653,17 +771,25 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>lhs</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>rhs</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>lhs</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>rhs</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -678,15 +804,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>contains()</b></td>
+                <td><b>contains()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>contains</b>
                         (rectArray, pointArray, shapeMode?)
@@ -695,20 +821,30 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>rectArray</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>pointArray</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>shapeMode?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>rectArray</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>pointArray</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>shapeMode?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -723,15 +859,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>copy()</b></td>
+                <td><b>copy()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>copy</b>
                         (object)
@@ -740,14 +876,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>object</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>object</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -762,15 +904,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>cos()</b></td>
+                <td><b>cos()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>cos</b>
                         (n)
@@ -779,14 +921,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>n</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>n</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -801,15 +949,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>count()</b></td>
+                <td><b>count()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>count</b>
                         (sequence)
@@ -818,14 +966,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>sequence</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>sequence</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -840,15 +994,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>degrees()</b></td>
+                <td><b>degrees()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>degrees</b>
                         (radians)
@@ -857,14 +1011,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>radians</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>radians</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -879,15 +1039,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>description()</b></td>
+                <td><b>description()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>description</b>
                         (object)
@@ -896,14 +1056,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>object</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>object</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -918,15 +1084,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>draw()</b></td>
+                <td><b>draw()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>draw</b>
                         ()
@@ -935,11 +1101,15 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
+                <td>
+                    <table>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -954,15 +1124,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>ellipse()</b></td>
+                <td><b>ellipse()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>ellipse</b>
                         (x, y?, width?, height?)
@@ -971,23 +1141,35 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>x</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>y?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>width?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>height?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>x</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>y?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>width?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>height?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1002,15 +1184,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>exit()</b></td>
+                <td><b>exit()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>exit</b>
                         ()
@@ -1019,11 +1201,15 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
+                <td>
+                    <table>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1038,15 +1224,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>fill()</b></td>
+                <td><b>fill()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>fill</b>
                         (r, g?, b?, a?)
@@ -1055,23 +1241,35 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>r</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>g?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>b?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>a?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>r</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>g?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>b?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>a?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1086,15 +1284,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>filter()</b></td>
+                <td><b>filter()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>filter</b>
                         (array, function)
@@ -1103,17 +1301,25 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>array</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>function</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>array</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>function</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1128,15 +1334,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>floor()</b></td>
+                <td><b>floor()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>floor</b>
                         (n)
@@ -1145,14 +1351,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>n</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>n</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1167,15 +1379,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>frameRate()</b></td>
+                <td><b>frameRate()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>frameRate</b>
                         (frameRate)
@@ -1184,14 +1396,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>frameRate</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>frameRate</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1206,15 +1424,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>globals()</b></td>
+                <td><b>globals()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>globals</b>
                         ()
@@ -1223,11 +1441,15 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
+                <td>
+                    <table>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1242,15 +1464,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>isNaN()</b></td>
+                <td><b>isNaN()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>isNaN</b>
                         (n)
@@ -1259,14 +1481,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>n</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>n</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1281,15 +1509,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>line()</b></td>
+                <td><b>line()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>line</b>
                         (x1, y1?, x2?, y2?)
@@ -1298,23 +1526,35 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>x1</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>y1?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>x2?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>y2?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>x1</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>y1?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>x2?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>y2?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1329,15 +1569,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>locals()</b></td>
+                <td><b>locals()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>locals</b>
                         (recurse?)
@@ -1346,14 +1586,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>recurse?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>recurse?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1368,15 +1614,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>log()</b></td>
+                <td><b>log()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>log</b>
                         (n)
@@ -1385,14 +1631,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>n</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>n</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1407,15 +1659,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>loop()</b></td>
+                <td><b>loop()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>loop</b>
                         (shouldLoop)
@@ -1424,14 +1676,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>shouldLoop</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>shouldLoop</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1446,15 +1704,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>lowercase()</b></td>
+                <td><b>lowercase()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>lowercase</b>
                         (string)
@@ -1463,14 +1721,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>string</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>string</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1485,15 +1749,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>map()</b></td>
+                <td><b>map()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>map</b>
                         (array, function)
@@ -1502,17 +1766,25 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>array</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>function</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>array</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>function</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1527,15 +1799,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>matches()</b></td>
+                <td><b>matches()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>matches</b>
                         (input, pattern, flags?)
@@ -1544,20 +1816,30 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>input</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>pattern</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>flags?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>input</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>pattern</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>flags?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1572,15 +1854,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>max()</b></td>
+                <td><b>max()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>max</b>
                         (a, b?)
@@ -1589,17 +1871,25 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>a</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>b?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>a</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>b?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1614,15 +1904,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>min()</b></td>
+                <td><b>min()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>min</b>
                         (a, b?)
@@ -1631,17 +1921,25 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>a</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>b?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>a</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>b?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1656,15 +1954,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>mouseDown()</b></td>
+                <td><b>mouseDown()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>mouseDown</b>
                         ()
@@ -1673,11 +1971,15 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
+                <td>
+                    <table>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1692,15 +1994,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>mouseDragged()</b></td>
+                <td><b>mouseDragged()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>mouseDragged</b>
                         ()
@@ -1709,11 +2011,15 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
+                <td>
+                    <table>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1728,15 +2034,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>mouseUp()</b></td>
+                <td><b>mouseUp()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>mouseUp</b>
                         ()
@@ -1745,11 +2051,15 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
+                <td>
+                    <table>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1764,15 +2074,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>noFill()</b></td>
+                <td><b>noFill()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>noFill</b>
                         ()
@@ -1781,11 +2091,15 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
+                <td>
+                    <table>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1800,15 +2114,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>noStroke()</b></td>
+                <td><b>noStroke()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>noStroke</b>
                         ()
@@ -1817,11 +2131,15 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
+                <td>
+                    <table>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1836,15 +2154,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>popStyle()</b></td>
+                <td><b>popStyle()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>popStyle</b>
                         ()
@@ -1853,11 +2171,15 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
+                <td>
+                    <table>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1872,15 +2194,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>position()</b></td>
+                <td><b>position()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>position</b>
                         (sequence, object, compareIdentity?)
@@ -1889,20 +2211,30 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>sequence</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>object</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>compareIdentity?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>sequence</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>object</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>compareIdentity?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1917,15 +2249,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>pow()</b></td>
+                <td><b>pow()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>pow</b>
                         (n, e)
@@ -1934,17 +2266,25 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>n</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>e</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>n</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>e</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1959,15 +2299,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>print()</b></td>
+                <td><b>print()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>print</b>
                         (object)
@@ -1976,14 +2316,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>object</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>object</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1998,15 +2344,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>pushStyle()</b></td>
+                <td><b>pushStyle()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>pushStyle</b>
                         ()
@@ -2015,11 +2361,15 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
+                <td>
+                    <table>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2034,15 +2384,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>radians()</b></td>
+                <td><b>radians()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>radians</b>
                         (degrees)
@@ -2051,14 +2401,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>degrees</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>degrees</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2073,15 +2429,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>random()</b></td>
+                <td><b>random()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>random</b>
                         (low, high?)
@@ -2090,17 +2446,25 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>low</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>high?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>low</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>high?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2115,15 +2479,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>range()</b></td>
+                <td><b>range()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>range</b>
                         (a, b?, step?)
@@ -2132,20 +2496,30 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>a</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>b?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>step?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>a</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>b?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>step?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2160,15 +2534,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>rect()</b></td>
+                <td><b>rect()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>rect</b>
                         (x, y?, width?, height?)
@@ -2177,23 +2551,35 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>x</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>y?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>width?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>height?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>x</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>y?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>width?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>height?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2208,15 +2594,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>redraw()</b></td>
+                <td><b>redraw()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>redraw</b>
                         ()
@@ -2225,11 +2611,15 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
+                <td>
+                    <table>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2244,15 +2634,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>replace()</b></td>
+                <td><b>replace()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>replace</b>
                         (input, pattern, replacement, flags?)
@@ -2261,23 +2651,35 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>input</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>pattern</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>replacement</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>flags?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>input</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>pattern</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>replacement</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>flags?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2292,15 +2694,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>repr()</b></td>
+                <td><b>repr()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>repr</b>
                         (object)
@@ -2309,14 +2711,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>object</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>object</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2331,15 +2739,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>rotate()</b></td>
+                <td><b>rotate()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>rotate</b>
                         (radians)
@@ -2348,14 +2756,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>radians</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>radians</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2370,15 +2784,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>round()</b></td>
+                <td><b>round()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>round</b>
                         (n)
@@ -2387,14 +2801,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>n</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>n</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2409,15 +2829,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>scale()</b></td>
+                <td><b>scale()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>scale</b>
                         (width, height?)
@@ -2426,17 +2846,25 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>width</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>height?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>width</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>height?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2451,15 +2879,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>setup()</b></td>
+                <td><b>setup()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>setup</b>
                         ()
@@ -2468,11 +2896,15 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
+                <td>
+                    <table>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2487,15 +2919,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>shapeMode()</b></td>
+                <td><b>shapeMode()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>shapeMode</b>
                         (mode)
@@ -2504,14 +2936,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>mode</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>mode</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2526,15 +2964,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>sin()</b></td>
+                <td><b>sin()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>sin</b>
                         (n)
@@ -2543,14 +2981,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>n</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>n</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2565,15 +3009,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>size()</b></td>
+                <td><b>size()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>size</b>
                         (width, height?)
@@ -2582,17 +3026,25 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>width</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>height?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>width</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>height?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2607,15 +3059,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>sleep()</b></td>
+                <td><b>sleep()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>sleep</b>
                         (seconds)
@@ -2624,14 +3076,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>seconds</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>seconds</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2646,15 +3104,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>sort()</b></td>
+                <td><b>sort()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>sort</b>
                         (array, function?)
@@ -2663,17 +3121,25 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>array</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>function?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>array</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>function?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2688,15 +3154,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>sqrt()</b></td>
+                <td><b>sqrt()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>sqrt</b>
                         (n)
@@ -2705,14 +3171,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>n</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>n</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2727,15 +3199,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>stroke()</b></td>
+                <td><b>stroke()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>stroke</b>
                         (r, g?, b?, a?)
@@ -2744,23 +3216,35 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>r</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>g?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>b?</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>a?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>r</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>g?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>b?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>a?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2775,15 +3259,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>strokeCap()</b></td>
+                <td><b>strokeCap()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>strokeCap</b>
                         (type)
@@ -2792,14 +3276,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>type</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>type</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2814,15 +3304,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>strokeJoin()</b></td>
+                <td><b>strokeJoin()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>strokeJoin</b>
                         (type)
@@ -2831,14 +3321,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>type</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>type</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2853,15 +3349,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>strokeWeight()</b></td>
+                <td><b>strokeWeight()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>strokeWeight</b>
                         (weight)
@@ -2870,14 +3366,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>weight</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>weight</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2892,15 +3394,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>sum()</b></td>
+                <td><b>sum()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>sum</b>
                         (sequence)
@@ -2909,14 +3411,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>sequence</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>sequence</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2931,15 +3439,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>tan()</b></td>
+                <td><b>tan()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>tan</b>
                         (n)
@@ -2948,14 +3456,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>n</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>n</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2970,15 +3484,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>translate()</b></td>
+                <td><b>translate()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>translate</b>
                         (x, y?)
@@ -2987,17 +3501,25 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>x</code></b></td>
-                    <td></td>
-                
-                    <td><b><code>y?</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>x</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                            <tr>
+                                <td><b><code>y?</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -3012,15 +3534,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>trim()</b></td>
+                <td><b>trim()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>trim</b>
                         (string)
@@ -3029,14 +3551,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>string</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>string</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -3051,15 +3579,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>type()</b></td>
+                <td><b>type()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>type</b>
                         (object)
@@ -3068,14 +3596,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>object</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>object</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -3090,15 +3624,15 @@
         <table>
             <tr>
                 <td><b>Name</b></td>
-                <td colspan="2"><b>uppercase()</b></td>
+                <td><b>uppercase()</b></td>
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td colspan="2"></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
-                <td colspan="2">
+                <td>
                     <code>
                         <i>bar</i> <b>uppercase</b>
                         (string)
@@ -3107,14 +3641,20 @@
             </tr>
             <tr>
                 <td><b>Parameters</b></td>
-                
-                    <td><b><code>string</code></b></td>
-                    <td></td>
-                
+                <td>
+                    <table>
+                        
+                            <tr>
+                                <td><b><code>string</code></b></td>
+                                <td>ParamDescription</td>
+                            </tr>
+                        
+                    </table>
+                </td>
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td colspan="2"></td>
+                <td>ReturnDescription</td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -3123,4 +3663,5 @@
         </table>
     </p>
 </div>
+
 </html>
