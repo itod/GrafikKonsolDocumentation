@@ -4,6 +4,7 @@
 
 <h2>Konsol Skript Function Reference</h2>
 
+
 <div>
     <p>
         <table>
@@ -27,14 +28,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>array?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>array?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -72,14 +69,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>object?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>object?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -117,14 +110,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>dictionary?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>dictionary?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -162,14 +151,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>object?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>object?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -207,14 +192,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>object?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>object?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -252,14 +233,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>n</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -297,14 +274,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>n</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -342,39 +315,25 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>x</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>y</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>radius</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>startAngle</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>endAngle</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>clockwise</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>x</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>y</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>radius</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>startAngle</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>endAngle</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>clockwise</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -412,14 +371,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>n</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -457,19 +412,13 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>test</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>message?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>test</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>message?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -507,14 +456,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>n</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -552,19 +497,13 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>y</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>x</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>y</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>x</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -602,14 +541,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>color?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>color?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -647,49 +582,31 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>x1</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>y1?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>x2?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>y2?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>x3?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>y3?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>x4?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>y4?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>x1</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>y1?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>x2?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>y2?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>x3?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>y3?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>x4?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>y4?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -727,14 +644,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>n</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -772,19 +685,13 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>lhs</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>rhs</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>lhs</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>rhs</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -822,24 +729,16 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>rectArray</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>pointArray</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>shapeMode?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>rectArray</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>pointArray</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>shapeMode?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -877,14 +776,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>object</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>object</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -922,14 +817,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>n</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -967,14 +858,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>sequence</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>sequence</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1012,14 +899,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>radians</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>radians</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1057,14 +940,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>object</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>object</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1102,9 +981,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                    </table>
+                
                 </td>
             </tr>
             <tr>
@@ -1142,29 +1019,19 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>x</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>y?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>width?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>height?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>x</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>y?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>width?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>height?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1202,9 +1069,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                    </table>
+                
                 </td>
             </tr>
             <tr>
@@ -1242,29 +1107,19 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>r</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>g?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>b?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>a?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>r</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>g?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>b?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>a?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1302,19 +1157,13 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>array</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>function</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>array</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>function</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1352,14 +1201,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>n</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1397,14 +1242,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>frameRate</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>frameRate</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1442,9 +1283,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                    </table>
+                
                 </td>
             </tr>
             <tr>
@@ -1482,14 +1321,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>n</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1527,29 +1362,19 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>x1</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>y1?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>x2?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>y2?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>x1</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>y1?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>x2?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>y2?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1587,14 +1412,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>recurse?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>recurse?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1632,14 +1453,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>n</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1677,14 +1494,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>shouldLoop</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>shouldLoop</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1722,14 +1535,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>string</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>string</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1767,19 +1576,13 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>array</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>function</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>array</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>function</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1817,24 +1620,16 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>input</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>pattern</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>flags?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>input</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>pattern</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>flags?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1872,19 +1667,13 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>a</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>b?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>a</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>b?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1922,19 +1711,13 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>a</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>b?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>a</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>b?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -1972,9 +1755,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                    </table>
+                
                 </td>
             </tr>
             <tr>
@@ -2012,9 +1793,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                    </table>
+                
                 </td>
             </tr>
             <tr>
@@ -2052,9 +1831,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                    </table>
+                
                 </td>
             </tr>
             <tr>
@@ -2092,9 +1869,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                    </table>
+                
                 </td>
             </tr>
             <tr>
@@ -2132,9 +1907,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                    </table>
+                
                 </td>
             </tr>
             <tr>
@@ -2172,9 +1945,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                    </table>
+                
                 </td>
             </tr>
             <tr>
@@ -2212,24 +1983,16 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>sequence</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>object</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>compareIdentity?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>sequence</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>object</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>compareIdentity?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -2267,19 +2030,13 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>n</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>e</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>e</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -2317,14 +2074,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>object</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>object</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -2362,9 +2115,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                    </table>
+                
                 </td>
             </tr>
             <tr>
@@ -2402,14 +2153,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>degrees</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>degrees</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -2447,19 +2194,13 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>low</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>high?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>low</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>high?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -2497,24 +2238,16 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>a</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>b?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>step?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>a</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>b?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>step?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -2552,29 +2285,19 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>x</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>y?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>width?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>height?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>x</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>y?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>width?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>height?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -2612,9 +2335,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                    </table>
+                
                 </td>
             </tr>
             <tr>
@@ -2652,29 +2373,19 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>input</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>pattern</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>replacement</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>flags?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>input</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>pattern</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>replacement</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>flags?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -2712,14 +2423,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>object</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>object</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -2757,14 +2464,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>radians</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>radians</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -2802,14 +2505,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>n</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -2847,19 +2546,13 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>width</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>height?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>width</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>height?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -2897,9 +2590,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                    </table>
+                
                 </td>
             </tr>
             <tr>
@@ -2937,14 +2628,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>mode</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>mode</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -2982,14 +2669,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>n</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -3027,19 +2710,13 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>width</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>height?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>width</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>height?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -3077,14 +2754,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>seconds</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>seconds</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -3122,19 +2795,13 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>array</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>function?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>array</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>function?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -3172,14 +2839,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>n</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -3217,29 +2880,19 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>r</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>g?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>b?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>a?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>r</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>g?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>b?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>a?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -3277,14 +2930,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>type</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>type</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -3322,14 +2971,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>type</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>type</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -3367,14 +3012,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>weight</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>weight</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -3412,14 +3053,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>sequence</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>sequence</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -3457,14 +3094,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>n</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -3502,19 +3135,13 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>x</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                            <tr>
-                                <td><b><code>y?</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>x</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
+                    <dt><b><code>y?</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -3552,14 +3179,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>string</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>string</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -3597,14 +3220,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>object</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>object</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
@@ -3642,14 +3261,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <table>
-                        
-                            <tr>
-                                <td><b><code>string</code></b></td>
-                                <td>ParamDescription</td>
-                            </tr>
-                        
-                    </table>
+                
+                    <dt><b><code>string</code></b></dt>
+                    <dd>ParamDescription</dd>
+                
                 </td>
             </tr>
             <tr>
