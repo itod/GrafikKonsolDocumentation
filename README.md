@@ -12,7 +12,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -26,7 +26,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>array?</code></b> : ParamDescription</div>
+                    <div><b><code>array?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -50,7 +50,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -64,7 +64,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>object?</code></b> : ParamDescription</div>
+                    <div><b><code>object?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -88,7 +88,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -102,7 +102,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>dictionary?</code></b> : ParamDescription</div>
+                    <div><b><code>dictionary?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -126,7 +126,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -140,7 +140,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>object?</code></b> : ParamDescription</div>
+                    <div><b><code>object?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -164,7 +164,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -178,7 +178,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>object?</code></b> : ParamDescription</div>
+                    <div><b><code>object?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -202,7 +202,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -216,7 +216,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>n</code></b> : ParamDescription</div>
+                    <div><b><code>n</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -240,7 +240,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -254,7 +254,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>n</code></b> : ParamDescription</div>
+                    <div><b><code>n</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -278,7 +278,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -292,12 +292,12 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>x</code></b> : ParamDescription</div>
-                    <div><b><code>y</code></b> : ParamDescription</div>
-                    <div><b><code>radius</code></b> : ParamDescription</div>
-                    <div><b><code>startAngle</code></b> : ParamDescription</div>
-                    <div><b><code>endAngle</code></b> : ParamDescription</div>
-                    <div><b><code>clockwise</code></b> : ParamDescription</div>
+                    <div><b><code>x</code></b> : </div>
+                    <div><b><code>y</code></b> : </div>
+                    <div><b><code>radius</code></b> : </div>
+                    <div><b><code>startAngle</code></b> : </div>
+                    <div><b><code>endAngle</code></b> : </div>
+                    <div><b><code>clockwise</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -321,7 +321,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -335,7 +335,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>n</code></b> : ParamDescription</div>
+                    <div><b><code>n</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -359,7 +359,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -373,8 +373,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>test</code></b> : ParamDescription</div>
-                    <div><b><code>message?</code></b> : ParamDescription</div>
+                    <div><b><code>test</code></b> : </div>
+                    <div><b><code>message?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -398,7 +398,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -412,7 +412,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>n</code></b> : ParamDescription</div>
+                    <div><b><code>n</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -436,7 +436,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -450,8 +450,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>y</code></b> : ParamDescription</div>
-                    <div><b><code>x</code></b> : ParamDescription</div>
+                    <div><b><code>y</code></b> : </div>
+                    <div><b><code>x</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -475,7 +475,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -489,7 +489,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>color?</code></b> : ParamDescription</div>
+                    <div><b><code>color?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -513,7 +513,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -527,14 +527,14 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>x1</code></b> : ParamDescription</div>
-                    <div><b><code>y1?</code></b> : ParamDescription</div>
-                    <div><b><code>x2?</code></b> : ParamDescription</div>
-                    <div><b><code>y2?</code></b> : ParamDescription</div>
-                    <div><b><code>x3?</code></b> : ParamDescription</div>
-                    <div><b><code>y3?</code></b> : ParamDescription</div>
-                    <div><b><code>x4?</code></b> : ParamDescription</div>
-                    <div><b><code>y4?</code></b> : ParamDescription</div>
+                    <div><b><code>x1</code></b> : </div>
+                    <div><b><code>y1?</code></b> : </div>
+                    <div><b><code>x2?</code></b> : </div>
+                    <div><b><code>y2?</code></b> : </div>
+                    <div><b><code>x3?</code></b> : </div>
+                    <div><b><code>y3?</code></b> : </div>
+                    <div><b><code>x4?</code></b> : </div>
+                    <div><b><code>y4?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -558,7 +558,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -572,7 +572,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>n</code></b> : ParamDescription</div>
+                    <div><b><code>n</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -596,7 +596,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -610,8 +610,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>lhs</code></b> : ParamDescription</div>
-                    <div><b><code>rhs</code></b> : ParamDescription</div>
+                    <div><b><code>lhs</code></b> : </div>
+                    <div><b><code>rhs</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -635,7 +635,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -649,9 +649,9 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>rectArray</code></b> : ParamDescription</div>
-                    <div><b><code>pointArray</code></b> : ParamDescription</div>
-                    <div><b><code>shapeMode?</code></b> : ParamDescription</div>
+                    <div><b><code>rectArray</code></b> : </div>
+                    <div><b><code>pointArray</code></b> : </div>
+                    <div><b><code>shapeMode?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -675,7 +675,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -689,7 +689,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>object</code></b> : ParamDescription</div>
+                    <div><b><code>object</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -713,7 +713,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -727,7 +727,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>n</code></b> : ParamDescription</div>
+                    <div><b><code>n</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -751,7 +751,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -765,7 +765,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>sequence</code></b> : ParamDescription</div>
+                    <div><b><code>sequence</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -789,7 +789,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -803,7 +803,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>radians</code></b> : ParamDescription</div>
+                    <div><b><code>radians</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -827,7 +827,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -841,7 +841,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>object</code></b> : ParamDescription</div>
+                    <div><b><code>object</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -865,7 +865,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -902,7 +902,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -916,10 +916,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>x</code></b> : ParamDescription</div>
-                    <div><b><code>y?</code></b> : ParamDescription</div>
-                    <div><b><code>width?</code></b> : ParamDescription</div>
-                    <div><b><code>height?</code></b> : ParamDescription</div>
+                    <div><b><code>x</code></b> : </div>
+                    <div><b><code>y?</code></b> : </div>
+                    <div><b><code>width?</code></b> : </div>
+                    <div><b><code>height?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -943,7 +943,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -980,7 +980,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -994,10 +994,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>r</code></b> : ParamDescription</div>
-                    <div><b><code>g?</code></b> : ParamDescription</div>
-                    <div><b><code>b?</code></b> : ParamDescription</div>
-                    <div><b><code>a?</code></b> : ParamDescription</div>
+                    <div><b><code>r</code></b> : </div>
+                    <div><b><code>g?</code></b> : </div>
+                    <div><b><code>b?</code></b> : </div>
+                    <div><b><code>a?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1021,7 +1021,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1035,8 +1035,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>array</code></b> : ParamDescription</div>
-                    <div><b><code>function</code></b> : ParamDescription</div>
+                    <div><b><code>array</code></b> : </div>
+                    <div><b><code>function</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1060,7 +1060,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1074,7 +1074,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>n</code></b> : ParamDescription</div>
+                    <div><b><code>n</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1098,7 +1098,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1112,7 +1112,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>frameRate</code></b> : ParamDescription</div>
+                    <div><b><code>frameRate</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1136,7 +1136,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1173,7 +1173,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1187,7 +1187,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>n</code></b> : ParamDescription</div>
+                    <div><b><code>n</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1211,7 +1211,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1225,10 +1225,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>x1</code></b> : ParamDescription</div>
-                    <div><b><code>y1?</code></b> : ParamDescription</div>
-                    <div><b><code>x2?</code></b> : ParamDescription</div>
-                    <div><b><code>y2?</code></b> : ParamDescription</div>
+                    <div><b><code>x1</code></b> : </div>
+                    <div><b><code>y1?</code></b> : </div>
+                    <div><b><code>x2?</code></b> : </div>
+                    <div><b><code>y2?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1252,7 +1252,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1266,7 +1266,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>recurse?</code></b> : ParamDescription</div>
+                    <div><b><code>recurse?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1290,7 +1290,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1304,7 +1304,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>n</code></b> : ParamDescription</div>
+                    <div><b><code>n</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1328,7 +1328,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1342,7 +1342,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>shouldLoop</code></b> : ParamDescription</div>
+                    <div><b><code>shouldLoop</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1366,7 +1366,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1380,7 +1380,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>string</code></b> : ParamDescription</div>
+                    <div><b><code>string</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1404,7 +1404,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1418,8 +1418,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>array</code></b> : ParamDescription</div>
-                    <div><b><code>function</code></b> : ParamDescription</div>
+                    <div><b><code>array</code></b> : </div>
+                    <div><b><code>function</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1443,7 +1443,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1457,9 +1457,9 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>input</code></b> : ParamDescription</div>
-                    <div><b><code>pattern</code></b> : ParamDescription</div>
-                    <div><b><code>flags?</code></b> : ParamDescription</div>
+                    <div><b><code>input</code></b> : </div>
+                    <div><b><code>pattern</code></b> : </div>
+                    <div><b><code>flags?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1483,7 +1483,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1497,8 +1497,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>a</code></b> : ParamDescription</div>
-                    <div><b><code>b?</code></b> : ParamDescription</div>
+                    <div><b><code>a</code></b> : </div>
+                    <div><b><code>b?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1522,7 +1522,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1536,8 +1536,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>a</code></b> : ParamDescription</div>
-                    <div><b><code>b?</code></b> : ParamDescription</div>
+                    <div><b><code>a</code></b> : </div>
+                    <div><b><code>b?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1561,7 +1561,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1598,7 +1598,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1635,7 +1635,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1672,7 +1672,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1709,7 +1709,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1746,7 +1746,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1783,7 +1783,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1797,9 +1797,9 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>sequence</code></b> : ParamDescription</div>
-                    <div><b><code>object</code></b> : ParamDescription</div>
-                    <div><b><code>compareIdentity?</code></b> : ParamDescription</div>
+                    <div><b><code>sequence</code></b> : </div>
+                    <div><b><code>object</code></b> : </div>
+                    <div><b><code>compareIdentity?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1823,7 +1823,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1837,8 +1837,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>n</code></b> : ParamDescription</div>
-                    <div><b><code>e</code></b> : ParamDescription</div>
+                    <div><b><code>n</code></b> : </div>
+                    <div><b><code>e</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1862,7 +1862,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1876,7 +1876,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>object</code></b> : ParamDescription</div>
+                    <div><b><code>object</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1900,7 +1900,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1937,7 +1937,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1951,7 +1951,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>degrees</code></b> : ParamDescription</div>
+                    <div><b><code>degrees</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1975,7 +1975,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -1989,8 +1989,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>low</code></b> : ParamDescription</div>
-                    <div><b><code>high?</code></b> : ParamDescription</div>
+                    <div><b><code>low</code></b> : </div>
+                    <div><b><code>high?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2014,7 +2014,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2028,9 +2028,9 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>a</code></b> : ParamDescription</div>
-                    <div><b><code>b?</code></b> : ParamDescription</div>
-                    <div><b><code>step?</code></b> : ParamDescription</div>
+                    <div><b><code>a</code></b> : </div>
+                    <div><b><code>b?</code></b> : </div>
+                    <div><b><code>step?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2054,7 +2054,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2068,10 +2068,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>x</code></b> : ParamDescription</div>
-                    <div><b><code>y?</code></b> : ParamDescription</div>
-                    <div><b><code>width?</code></b> : ParamDescription</div>
-                    <div><b><code>height?</code></b> : ParamDescription</div>
+                    <div><b><code>x</code></b> : </div>
+                    <div><b><code>y?</code></b> : </div>
+                    <div><b><code>width?</code></b> : </div>
+                    <div><b><code>height?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2095,7 +2095,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2132,7 +2132,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2146,10 +2146,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>input</code></b> : ParamDescription</div>
-                    <div><b><code>pattern</code></b> : ParamDescription</div>
-                    <div><b><code>replacement</code></b> : ParamDescription</div>
-                    <div><b><code>flags?</code></b> : ParamDescription</div>
+                    <div><b><code>input</code></b> : </div>
+                    <div><b><code>pattern</code></b> : </div>
+                    <div><b><code>replacement</code></b> : </div>
+                    <div><b><code>flags?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2173,7 +2173,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2187,7 +2187,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>object</code></b> : ParamDescription</div>
+                    <div><b><code>object</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2211,7 +2211,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2225,7 +2225,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>radians</code></b> : ParamDescription</div>
+                    <div><b><code>radians</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2249,7 +2249,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2263,7 +2263,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>n</code></b> : ParamDescription</div>
+                    <div><b><code>n</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2287,7 +2287,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2301,8 +2301,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>width</code></b> : ParamDescription</div>
-                    <div><b><code>height?</code></b> : ParamDescription</div>
+                    <div><b><code>width</code></b> : </div>
+                    <div><b><code>height?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2326,7 +2326,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2363,7 +2363,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2377,7 +2377,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>mode</code></b> : ParamDescription</div>
+                    <div><b><code>mode</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2401,7 +2401,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2415,7 +2415,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>n</code></b> : ParamDescription</div>
+                    <div><b><code>n</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2439,7 +2439,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2453,8 +2453,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>width</code></b> : ParamDescription</div>
-                    <div><b><code>height?</code></b> : ParamDescription</div>
+                    <div><b><code>width</code></b> : </div>
+                    <div><b><code>height?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2478,7 +2478,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2492,7 +2492,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>seconds</code></b> : ParamDescription</div>
+                    <div><b><code>seconds</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2516,7 +2516,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2530,8 +2530,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>array</code></b> : ParamDescription</div>
-                    <div><b><code>function?</code></b> : ParamDescription</div>
+                    <div><b><code>array</code></b> : </div>
+                    <div><b><code>function?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2555,7 +2555,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2569,7 +2569,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>n</code></b> : ParamDescription</div>
+                    <div><b><code>n</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2593,7 +2593,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2607,10 +2607,10 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>r</code></b> : ParamDescription</div>
-                    <div><b><code>g?</code></b> : ParamDescription</div>
-                    <div><b><code>b?</code></b> : ParamDescription</div>
-                    <div><b><code>a?</code></b> : ParamDescription</div>
+                    <div><b><code>r</code></b> : </div>
+                    <div><b><code>g?</code></b> : </div>
+                    <div><b><code>b?</code></b> : </div>
+                    <div><b><code>a?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2634,7 +2634,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2648,7 +2648,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>type</code></b> : ParamDescription</div>
+                    <div><b><code>type</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2672,7 +2672,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2686,7 +2686,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>type</code></b> : ParamDescription</div>
+                    <div><b><code>type</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2710,7 +2710,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2724,7 +2724,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>weight</code></b> : ParamDescription</div>
+                    <div><b><code>weight</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2748,7 +2748,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2762,7 +2762,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>sequence</code></b> : ParamDescription</div>
+                    <div><b><code>sequence</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2786,7 +2786,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2800,7 +2800,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>n</code></b> : ParamDescription</div>
+                    <div><b><code>n</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2824,7 +2824,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2838,8 +2838,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>x</code></b> : ParamDescription</div>
-                    <div><b><code>y?</code></b> : ParamDescription</div>
+                    <div><b><code>x</code></b> : </div>
+                    <div><b><code>y?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2863,7 +2863,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2877,7 +2877,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>string</code></b> : ParamDescription</div>
+                    <div><b><code>string</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2901,7 +2901,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2915,7 +2915,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>object</code></b> : ParamDescription</div>
+                    <div><b><code>object</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -2939,7 +2939,7 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td>FuncDescription</td>
+                <td></td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
@@ -2953,7 +2953,7 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <div><b><code>string</code></b> : ParamDescription</div>
+                    <div><b><code>string</code></b> : </div>
                 </td>
             </tr>
             <tr>
