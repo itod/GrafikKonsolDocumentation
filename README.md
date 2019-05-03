@@ -2,6 +2,7 @@
 
 <h2>Konsol Skript Function Reference</h2>
 
+
 <div>
     <p>
         <table border="1" cellpadding="10" style="border-collapse:collapse;">
@@ -25,8 +26,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>array?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>array?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -64,8 +65,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>object?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>object?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -103,8 +104,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>dictionary?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>dictionary?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -142,8 +143,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>object?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>object?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -181,8 +182,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>object?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>object?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -220,8 +221,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>n</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -259,8 +260,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>n</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -298,23 +299,23 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>x</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>x</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>y</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>y</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>radius</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>radius</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>startAngle</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>startAngle</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>endAngle</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>endAngle</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>clockwise</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>clockwise</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -352,8 +353,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>n</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -391,11 +392,11 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>test</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>test</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>message?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>message?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -433,8 +434,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>n</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -472,11 +473,11 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>y</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>y</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>x</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>x</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -514,8 +515,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>color?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>color?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -553,29 +554,29 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>x1</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>x1</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>y1?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>y1?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>x2?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>x2?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>y2?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>y2?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>x3?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>x3?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>y3?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>y3?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>x4?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>x4?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>y4?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>y4?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -613,8 +614,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>n</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -652,11 +653,11 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>lhs</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>lhs</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>rhs</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>rhs</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -694,14 +695,14 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>rectArray</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>rectArray</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>pointArray</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>pointArray</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>shapeMode?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>shapeMode?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -739,8 +740,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>object</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>object</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -778,8 +779,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>n</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -817,8 +818,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>sequence</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>sequence</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -856,8 +857,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>radians</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>radians</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -895,8 +896,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>object</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>object</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -970,17 +971,17 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>x</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>x</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>y?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>y?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>width?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>width?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>height?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>height?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1054,17 +1055,17 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>r</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>r</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>g?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>g?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>b?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>b?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>a?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>a?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1102,11 +1103,11 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>array</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>array</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>function</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>function</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1144,8 +1145,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>n</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1183,8 +1184,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>frameRate</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>frameRate</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1258,8 +1259,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>n</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1297,17 +1298,17 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>x1</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>x1</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>y1?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>y1?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>x2?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>x2?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>y2?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>y2?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1345,8 +1346,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>recurse?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>recurse?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1384,8 +1385,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>n</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1423,8 +1424,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>shouldLoop</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>shouldLoop</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1462,8 +1463,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>string</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>string</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1501,11 +1502,11 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>array</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>array</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>function</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>function</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1543,14 +1544,14 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>input</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>input</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>pattern</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>pattern</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>flags?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>flags?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1588,11 +1589,11 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>a</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>a</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>b?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>b?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1630,11 +1631,11 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>a</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>a</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>b?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>b?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1888,14 +1889,14 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>sequence</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>sequence</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>object</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>object</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>compareIdentity?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>compareIdentity?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1933,11 +1934,11 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>n</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>e</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>e</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -1975,8 +1976,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>object</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>object</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2050,8 +2051,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>degrees</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>degrees</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2089,11 +2090,11 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>low</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>low</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>high?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>high?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2131,14 +2132,14 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>a</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>a</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>b?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>b?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>step?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>step?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2176,17 +2177,17 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>x</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>x</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>y?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>y?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>width?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>width?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>height?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>height?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2260,17 +2261,17 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>input</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>input</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>pattern</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>pattern</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>replacement</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>replacement</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>flags?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>flags?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2308,8 +2309,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>object</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>object</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2347,8 +2348,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>radians</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>radians</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2386,8 +2387,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>n</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2425,11 +2426,11 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>width</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>width</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>height?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>height?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2503,8 +2504,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>mode</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>mode</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2542,8 +2543,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>n</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2581,11 +2582,11 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>width</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>width</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>height?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>height?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2623,8 +2624,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>seconds</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>seconds</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2662,11 +2663,11 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>array</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>array</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>function?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>function?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2704,8 +2705,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>n</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2743,17 +2744,17 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>r</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>r</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>g?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>g?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>b?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>b?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>a?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>a?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2791,8 +2792,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>type</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>type</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2830,8 +2831,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>type</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>type</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2869,8 +2870,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>weight</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>weight</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2908,8 +2909,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>sequence</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>sequence</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2947,8 +2948,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>n</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>n</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -2986,11 +2987,11 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>x</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>x</code></b></dt>
+                    <dd>ParamDescription</dd>
                 
-                    <span><b><code>y?</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>y?</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -3028,8 +3029,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>string</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>string</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -3067,8 +3068,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>object</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>object</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
@@ -3106,8 +3107,8 @@
             <tr>
                 <td><b>Parameters</b></td>
                 <td>
-                    <span><b><code>string</code></b></span><br/>
-                    <span>ParamDescription</span>
+                    <dt><b><code>string</code></b></dt>
+                    <dd>ParamDescription</dd>
                 </td>
             </tr>
             <tr>
