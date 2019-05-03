@@ -4,10 +4,9 @@
 
 <h2>Konsol Skript Function Reference</h2>
 
-
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>Array()</b></td>
@@ -48,7 +47,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>Boolean()</b></td>
@@ -89,7 +88,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>Dictionary()</b></td>
@@ -130,7 +129,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>Number()</b></td>
@@ -171,7 +170,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>String()</b></td>
@@ -212,7 +211,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>abs()</b></td>
@@ -253,7 +252,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>acos()</b></td>
@@ -294,7 +293,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>arc()</b></td>
@@ -350,7 +349,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>asin()</b></td>
@@ -391,7 +390,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>assert()</b></td>
@@ -435,7 +434,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>atan()</b></td>
@@ -476,7 +475,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>atan2()</b></td>
@@ -520,7 +519,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>background()</b></td>
@@ -561,7 +560,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>bezier()</b></td>
@@ -623,7 +622,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>ceil()</b></td>
@@ -664,7 +663,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>compare()</b></td>
@@ -708,7 +707,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>contains()</b></td>
@@ -755,7 +754,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>copy()</b></td>
@@ -796,7 +795,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>cos()</b></td>
@@ -837,7 +836,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>count()</b></td>
@@ -878,7 +877,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>degrees()</b></td>
@@ -919,7 +918,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>description()</b></td>
@@ -960,7 +959,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>draw()</b></td>
@@ -998,7 +997,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>ellipse()</b></td>
@@ -1048,7 +1047,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>exit()</b></td>
@@ -1086,7 +1085,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>fill()</b></td>
@@ -1136,7 +1135,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>filter()</b></td>
@@ -1180,7 +1179,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>floor()</b></td>
@@ -1221,7 +1220,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>frameRate()</b></td>
@@ -1262,7 +1261,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>globals()</b></td>
@@ -1300,7 +1299,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>isNaN()</b></td>
@@ -1341,7 +1340,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>line()</b></td>
@@ -1391,7 +1390,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>locals()</b></td>
@@ -1432,7 +1431,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>log()</b></td>
@@ -1473,7 +1472,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>loop()</b></td>
@@ -1514,7 +1513,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>lowercase()</b></td>
@@ -1555,7 +1554,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>map()</b></td>
@@ -1599,7 +1598,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>matches()</b></td>
@@ -1646,7 +1645,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>max()</b></td>
@@ -1690,7 +1689,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>min()</b></td>
@@ -1734,7 +1733,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>mouseDown()</b></td>
@@ -1772,7 +1771,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>mouseDragged()</b></td>
@@ -1810,7 +1809,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>mouseUp()</b></td>
@@ -1848,7 +1847,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>noFill()</b></td>
@@ -1886,7 +1885,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>noStroke()</b></td>
@@ -1924,7 +1923,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>popStyle()</b></td>
@@ -1962,7 +1961,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>position()</b></td>
@@ -2009,7 +2008,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>pow()</b></td>
@@ -2053,7 +2052,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>print()</b></td>
@@ -2094,7 +2093,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>pushStyle()</b></td>
@@ -2132,7 +2131,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>radians()</b></td>
@@ -2173,7 +2172,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>random()</b></td>
@@ -2217,7 +2216,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>range()</b></td>
@@ -2264,7 +2263,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>rect()</b></td>
@@ -2314,7 +2313,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>redraw()</b></td>
@@ -2352,7 +2351,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>replace()</b></td>
@@ -2402,7 +2401,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>repr()</b></td>
@@ -2443,7 +2442,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>rotate()</b></td>
@@ -2484,7 +2483,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>round()</b></td>
@@ -2525,7 +2524,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>scale()</b></td>
@@ -2569,7 +2568,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>setup()</b></td>
@@ -2607,7 +2606,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>shapeMode()</b></td>
@@ -2648,7 +2647,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>sin()</b></td>
@@ -2689,7 +2688,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>size()</b></td>
@@ -2733,7 +2732,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>sleep()</b></td>
@@ -2774,7 +2773,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>sort()</b></td>
@@ -2818,7 +2817,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>sqrt()</b></td>
@@ -2859,7 +2858,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>stroke()</b></td>
@@ -2909,7 +2908,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>strokeCap()</b></td>
@@ -2950,7 +2949,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>strokeJoin()</b></td>
@@ -2991,7 +2990,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>strokeWeight()</b></td>
@@ -3032,7 +3031,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>sum()</b></td>
@@ -3073,7 +3072,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>tan()</b></td>
@@ -3114,7 +3113,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>translate()</b></td>
@@ -3158,7 +3157,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>trim()</b></td>
@@ -3199,7 +3198,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>type()</b></td>
@@ -3240,7 +3239,7 @@
 
 <div>
     <p>
-        <table>
+        <table border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
                 <td><b>uppercase()</b></td>
