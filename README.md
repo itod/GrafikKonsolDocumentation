@@ -3,6 +3,7 @@
 <h2>Konsol Skript Function Reference</h2>
 
 
+
 <div>
     <p>
         <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
@@ -12,14 +13,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>Array</b>
-                        (array?)
+                        <i>Array</i> <b>Array</b>(array?)
                     </code>
                 </td>
             </tr>
@@ -31,7 +31,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Array</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -50,14 +50,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>Boolean</b>
-                        (object?)
+                        <i>Boolean</i> <b>Boolean</b>(object?)
                     </code>
                 </td>
             </tr>
@@ -69,7 +68,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Boolean</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -88,14 +87,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>Dictionary</b>
-                        (dictionary?)
+                        <i>Dictionary</i> <b>Dictionary</b>(dictionary?)
                     </code>
                 </td>
             </tr>
@@ -107,7 +105,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Dictionary</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -126,14 +124,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>Number</b>
-                        (object?)
+                        <i>Number</i> <b>Number</b>(object?)
                     </code>
                 </td>
             </tr>
@@ -145,7 +142,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -164,14 +161,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>String</b>
-                        (object?)
+                        <i>String</i> <b>String</b>(object?)
                     </code>
                 </td>
             </tr>
@@ -183,7 +179,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>String</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -202,14 +198,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>abs</b>
-                        (n)
+                        <i>Number</i> <b>abs</b>(n)
                     </code>
                 </td>
             </tr>
@@ -221,7 +216,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -240,14 +235,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>acos</b>
-                        (n)
+                        <i>Number</i> <b>acos</b>(n)
                     </code>
                 </td>
             </tr>
@@ -259,7 +253,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -278,14 +272,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>arc</b>
-                        (x, y, radius, startAngle, endAngle, clockwise)
+                        <i>Void</i> <b>arc</b>(x, y, radius, startAngle, endAngle, clockwise)
                     </code>
                 </td>
             </tr>
@@ -302,7 +295,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -321,14 +314,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>asin</b>
-                        (n)
+                        <i>Number</i> <b>asin</b>(n)
                     </code>
                 </td>
             </tr>
@@ -340,7 +332,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -359,14 +351,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>assert</b>
-                        (test, message?)
+                        <i>Void</i> <b>assert</b>(test, message?)
                     </code>
                 </td>
             </tr>
@@ -379,7 +370,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -398,14 +389,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>atan</b>
-                        (n)
+                        <i>Number</i> <b>atan</b>(n)
                     </code>
                 </td>
             </tr>
@@ -417,7 +407,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -436,14 +426,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>atan2</b>
-                        (y, x)
+                        <i>Number</i> <b>atan2</b>(y, x)
                     </code>
                 </td>
             </tr>
@@ -456,7 +445,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -475,14 +464,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>background</b>
-                        (color?)
+                        <i>Void</i> <b>background</b>(color?)
                     </code>
                 </td>
             </tr>
@@ -494,7 +482,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -513,14 +501,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>bezier</b>
-                        (x1, y1?, x2?, y2?, x3?, y3?, x4?, y4?)
+                        <i>Void</i> <b>bezier</b>(x1, y1?, x2?, y2?, x3?, y3?, x4?, y4?)
                     </code>
                 </td>
             </tr>
@@ -539,7 +526,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -558,14 +545,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>ceil</b>
-                        (n)
+                        <i>Number</i> <b>ceil</b>(n)
                     </code>
                 </td>
             </tr>
@@ -577,7 +563,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -596,14 +582,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>compare</b>
-                        (lhs, rhs)
+                        <i>Number</i> <b>compare</b>(lhs, rhs)
                     </code>
                 </td>
             </tr>
@@ -616,7 +601,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -635,14 +620,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>contains</b>
-                        (rectArray, pointArray, shapeMode?)
+                        <i>Boolean</i> <b>contains</b>(rectArray, pointArray, shapeMode?)
                     </code>
                 </td>
             </tr>
@@ -656,7 +640,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Boolean</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -675,14 +659,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>copy</b>
-                        (object)
+                        <i>Object</i> <b>copy</b>(object)
                     </code>
                 </td>
             </tr>
@@ -694,7 +677,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Object</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -713,14 +696,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>cos</b>
-                        (n)
+                        <i>Number</i> <b>cos</b>(n)
                     </code>
                 </td>
             </tr>
@@ -732,7 +714,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -751,14 +733,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>count</b>
-                        (sequence)
+                        <i>Number</i> <b>count</b>(sequence)
                     </code>
                 </td>
             </tr>
@@ -770,7 +751,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -789,14 +770,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>degrees</b>
-                        (radians)
+                        <i>Number</i> <b>degrees</b>(radians)
                     </code>
                 </td>
             </tr>
@@ -808,7 +788,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -827,14 +807,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>description</b>
-                        (object)
+                        <i>String</i> <b>description</b>(object)
                     </code>
                 </td>
             </tr>
@@ -846,7 +825,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>String</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -865,14 +844,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>draw</b>
-                        ()
+                        <i>Void</i> <b>draw</b>()
                     </code>
                 </td>
             </tr>
@@ -883,7 +861,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -902,14 +880,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>ellipse</b>
-                        (x, y?, width?, height?)
+                        <i>Void</i> <b>ellipse</b>(x, y?, width?, height?)
                     </code>
                 </td>
             </tr>
@@ -924,7 +901,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -943,14 +920,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>exit</b>
-                        ()
+                        <i>Void</i> <b>exit</b>()
                     </code>
                 </td>
             </tr>
@@ -961,7 +937,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -980,14 +956,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>fill</b>
-                        (r, g?, b?, a?)
+                        <i>Void</i> <b>fill</b>(r, g?, b?, a?)
                     </code>
                 </td>
             </tr>
@@ -1002,7 +977,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1021,14 +996,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>filter</b>
-                        (array, function)
+                        <i>Array</i> <b>filter</b>(array, function)
                     </code>
                 </td>
             </tr>
@@ -1041,7 +1015,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Array</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1060,14 +1034,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>floor</b>
-                        (n)
+                        <i>Number</i> <b>floor</b>(n)
                     </code>
                 </td>
             </tr>
@@ -1079,7 +1052,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1098,14 +1071,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>frameRate</b>
-                        (frameRate)
+                        <i>Void</i> <b>frameRate</b>(frameRate)
                     </code>
                 </td>
             </tr>
@@ -1117,7 +1089,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1136,14 +1108,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>globals</b>
-                        ()
+                        <i>Dictionary</i> <b>globals</b>()
                     </code>
                 </td>
             </tr>
@@ -1154,7 +1125,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Dictionary</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1173,14 +1144,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>isNaN</b>
-                        (n)
+                        <i>Boolean</i> <b>isNaN</b>(n)
                     </code>
                 </td>
             </tr>
@@ -1192,7 +1162,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Boolean</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1211,14 +1181,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>line</b>
-                        (x1, y1?, x2?, y2?)
+                        <i>Void</i> <b>line</b>(x1, y1?, x2?, y2?)
                     </code>
                 </td>
             </tr>
@@ -1233,7 +1202,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1252,14 +1221,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>locals</b>
-                        (recurse?)
+                        <i>Dictionary</i> <b>locals</b>(recurse?)
                     </code>
                 </td>
             </tr>
@@ -1271,7 +1239,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Dictionary</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1290,14 +1258,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>log</b>
-                        (n)
+                        <i>Number</i> <b>log</b>(n)
                     </code>
                 </td>
             </tr>
@@ -1309,7 +1276,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1328,14 +1295,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>loop</b>
-                        (shouldLoop)
+                        <i>Void</i> <b>loop</b>(shouldLoop)
                     </code>
                 </td>
             </tr>
@@ -1347,7 +1313,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1366,14 +1332,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>lowercase</b>
-                        (string)
+                        <i>String</i> <b>lowercase</b>(string)
                     </code>
                 </td>
             </tr>
@@ -1385,7 +1350,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>String</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1404,14 +1369,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>map</b>
-                        (array, function)
+                        <i>Array</i> <b>map</b>(array, function)
                     </code>
                 </td>
             </tr>
@@ -1424,7 +1388,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Array</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1443,14 +1407,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>matches</b>
-                        (input, pattern, flags?)
+                        <i>Boolean</i> <b>matches</b>(input, pattern, flags?)
                     </code>
                 </td>
             </tr>
@@ -1464,7 +1427,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Boolean</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1483,14 +1446,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>max</b>
-                        (a, b?)
+                        <i>Number</i> <b>max</b>(a, b?)
                     </code>
                 </td>
             </tr>
@@ -1503,7 +1465,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1522,14 +1484,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>min</b>
-                        (a, b?)
+                        <i>Number</i> <b>min</b>(a, b?)
                     </code>
                 </td>
             </tr>
@@ -1542,44 +1503,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
-            </tr>
-            <!-- <tr>
-                <td><b>Related</b></td>
-                <td></td>
-            </tr> -->
-        </table>
-    </p>
-</div>
-
-<div>
-    <p>
-        <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
-            <tr>
-                <td><b>Name</b></td>
-                <td><b>mouseDown()</b></td>
-            </tr>
-            <tr>
-                <td><b>Description</b></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td><b>Syntax</b></td>
-                <td>
-                    <code>
-                        <i>bar</i> <b>mouseDown</b>
-                        ()
-                    </code>
-                </td>
-            </tr>
-            <tr>
-                <td><b>Parameters</b></td>
-                <td>
-                </td>
-            </tr>
-            <tr>
-                <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1598,14 +1522,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>mouseDragged</b>
-                        ()
+                        <i>Void</i> <b>mouseDragged</b>()
                     </code>
                 </td>
             </tr>
@@ -1616,44 +1539,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
-            </tr>
-            <!-- <tr>
-                <td><b>Related</b></td>
-                <td></td>
-            </tr> -->
-        </table>
-    </p>
-</div>
-
-<div>
-    <p>
-        <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
-            <tr>
-                <td><b>Name</b></td>
-                <td><b>mouseUp()</b></td>
-            </tr>
-            <tr>
-                <td><b>Description</b></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td><b>Syntax</b></td>
-                <td>
-                    <code>
-                        <i>bar</i> <b>mouseUp</b>
-                        ()
-                    </code>
-                </td>
-            </tr>
-            <tr>
-                <td><b>Parameters</b></td>
-                <td>
-                </td>
-            </tr>
-            <tr>
-                <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1672,14 +1558,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>noFill</b>
-                        ()
+                        <i>Void</i> <b>noFill</b>()
                     </code>
                 </td>
             </tr>
@@ -1690,7 +1575,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1709,14 +1594,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>noStroke</b>
-                        ()
+                        <i>Void</i> <b>noStroke</b>()
                     </code>
                 </td>
             </tr>
@@ -1727,7 +1611,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1746,14 +1630,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>popStyle</b>
-                        ()
+                        <i>Void</i> <b>popStyle</b>()
                     </code>
                 </td>
             </tr>
@@ -1764,7 +1647,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1783,14 +1666,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>position</b>
-                        (sequence, object, compareIdentity?)
+                        <i>Number</i> <b>position</b>(sequence, object, compareIdentity?)
                     </code>
                 </td>
             </tr>
@@ -1804,7 +1686,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1823,14 +1705,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>pow</b>
-                        (n, e)
+                        <i>Number</i> <b>pow</b>(n, e)
                     </code>
                 </td>
             </tr>
@@ -1843,7 +1724,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1862,14 +1743,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>print</b>
-                        (object)
+                        <i>Void</i> <b>print</b>(object)
                     </code>
                 </td>
             </tr>
@@ -1881,7 +1761,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1900,14 +1780,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>pushStyle</b>
-                        ()
+                        <i>Void</i> <b>pushStyle</b>()
                     </code>
                 </td>
             </tr>
@@ -1918,7 +1797,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1937,14 +1816,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>radians</b>
-                        (degrees)
+                        <i>Number</i> <b>radians</b>(degrees)
                     </code>
                 </td>
             </tr>
@@ -1956,7 +1834,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -1975,14 +1853,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>random</b>
-                        (low, high?)
+                        <i>Number</i> <b>random</b>(low, high?)
                     </code>
                 </td>
             </tr>
@@ -1995,7 +1872,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2014,14 +1891,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>range</b>
-                        (a, b?, step?)
+                        <i>Array</i> <b>range</b>(a, b?, step?)
                     </code>
                 </td>
             </tr>
@@ -2035,7 +1911,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Array</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2054,14 +1930,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>rect</b>
-                        (x, y?, width?, height?)
+                        <i>Void</i> <b>rect</b>(x, y?, width?, height?)
                     </code>
                 </td>
             </tr>
@@ -2076,7 +1951,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2095,14 +1970,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>redraw</b>
-                        ()
+                        <i>Void</i> <b>redraw</b>()
                     </code>
                 </td>
             </tr>
@@ -2113,7 +1987,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2132,14 +2006,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>replace</b>
-                        (input, pattern, replacement, flags?)
+                        <i>String</i> <b>replace</b>(input, pattern, replacement, flags?)
                     </code>
                 </td>
             </tr>
@@ -2154,7 +2027,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>String</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2173,14 +2046,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>repr</b>
-                        (object)
+                        <i>String</i> <b>repr</b>(object)
                     </code>
                 </td>
             </tr>
@@ -2192,7 +2064,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>String</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2211,14 +2083,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>rotate</b>
-                        (radians)
+                        <i>Void</i> <b>rotate</b>(radians)
                     </code>
                 </td>
             </tr>
@@ -2230,7 +2101,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2249,14 +2120,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>round</b>
-                        (n)
+                        <i>Number</i> <b>round</b>(n)
                     </code>
                 </td>
             </tr>
@@ -2268,7 +2138,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2287,14 +2157,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>scale</b>
-                        (width, height?)
+                        <i>Void</i> <b>scale</b>(width, height?)
                     </code>
                 </td>
             </tr>
@@ -2307,7 +2176,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2326,14 +2195,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>setup</b>
-                        ()
+                        <i>Void</i> <b>setup</b>()
                     </code>
                 </td>
             </tr>
@@ -2344,7 +2212,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2363,14 +2231,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>shapeMode</b>
-                        (mode)
+                        <i>Void</i> <b>shapeMode</b>(mode)
                     </code>
                 </td>
             </tr>
@@ -2382,7 +2249,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2401,14 +2268,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>sin</b>
-                        (n)
+                        <i>Number</i> <b>sin</b>(n)
                     </code>
                 </td>
             </tr>
@@ -2420,7 +2286,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2439,14 +2305,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>size</b>
-                        (width, height?)
+                        <i>Void</i> <b>size</b>(width, height?)
                     </code>
                 </td>
             </tr>
@@ -2459,7 +2324,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2478,14 +2343,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>sleep</b>
-                        (seconds)
+                        <i>Object</i> <b>sleep</b>(seconds)
                     </code>
                 </td>
             </tr>
@@ -2497,7 +2361,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Object</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2516,14 +2380,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>sort</b>
-                        (array, function?)
+                        <i>Void</i> <b>sort</b>(array, function?)
                     </code>
                 </td>
             </tr>
@@ -2536,7 +2399,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2555,14 +2418,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>sqrt</b>
-                        (n)
+                        <i>Number</i> <b>sqrt</b>(n)
                     </code>
                 </td>
             </tr>
@@ -2574,7 +2436,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2593,14 +2455,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>stroke</b>
-                        (r, g?, b?, a?)
+                        <i>Void</i> <b>stroke</b>(r, g?, b?, a?)
                     </code>
                 </td>
             </tr>
@@ -2615,7 +2476,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2634,14 +2495,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>strokeCap</b>
-                        (type)
+                        <i>Void</i> <b>strokeCap</b>(type)
                     </code>
                 </td>
             </tr>
@@ -2653,7 +2513,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2672,14 +2532,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>strokeJoin</b>
-                        (type)
+                        <i>Void</i> <b>strokeJoin</b>(type)
                     </code>
                 </td>
             </tr>
@@ -2691,7 +2550,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2710,14 +2569,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>strokeWeight</b>
-                        (weight)
+                        <i>Void</i> <b>strokeWeight</b>(weight)
                     </code>
                 </td>
             </tr>
@@ -2729,7 +2587,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2748,14 +2606,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>sum</b>
-                        (sequence)
+                        <i>Number</i> <b>sum</b>(sequence)
                     </code>
                 </td>
             </tr>
@@ -2767,7 +2624,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2786,14 +2643,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>tan</b>
-                        (n)
+                        <i>Number</i> <b>tan</b>(n)
                     </code>
                 </td>
             </tr>
@@ -2805,7 +2661,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Number</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2824,14 +2680,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>translate</b>
-                        (x, y?)
+                        <i>Void</i> <b>translate</b>(x, y?)
                     </code>
                 </td>
             </tr>
@@ -2844,7 +2699,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>Void</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2863,14 +2718,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>trim</b>
-                        (string)
+                        <i>String</i> <b>trim</b>(string)
                     </code>
                 </td>
             </tr>
@@ -2882,7 +2736,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>String</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2901,14 +2755,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>type</b>
-                        (object)
+                        <i>String</i> <b>type</b>(object)
                     </code>
                 </td>
             </tr>
@@ -2920,7 +2773,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>String</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
@@ -2939,14 +2792,13 @@
             </tr>
             <tr>
                 <td><b>Description</b></td>
-                <td></td>
+                <td>FuncDescription</td>
             </tr>
             <tr>
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>bar</i> <b>uppercase</b>
-                        (string)
+                        <i>String</i> <b>uppercase</b>(string)
                     </code>
                 </td>
             </tr>
@@ -2958,7 +2810,7 @@
             </tr>
             <tr>
                 <td><b>Returns</b></td>
-                <td>ReturnDescription</td>
+                <td><i>String</i></td>
             </tr>
             <!-- <tr>
                 <td><b>Related</b></td>
