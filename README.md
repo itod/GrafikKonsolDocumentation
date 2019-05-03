@@ -4,6 +4,7 @@
 
 <h2>Konsol Skript Function Reference</h2>
 
+
 <div>
     <p>
         <table border="1" cellpadding="10" style="border-collapse:collapse;">
@@ -28,6 +29,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -56,6 +61,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -84,6 +93,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -112,6 +125,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -140,6 +157,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -168,6 +189,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -196,6 +221,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -224,6 +253,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -252,6 +285,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -280,6 +317,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -308,6 +349,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -336,6 +381,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -364,6 +413,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -392,6 +445,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -420,6 +477,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -448,6 +509,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -476,6 +541,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -504,6 +573,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -532,6 +605,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -560,6 +637,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -588,6 +669,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -616,6 +701,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -644,6 +733,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -672,6 +765,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -700,6 +797,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -728,6 +829,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -756,6 +861,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -784,6 +893,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -812,6 +925,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -840,6 +957,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -868,6 +989,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -896,6 +1021,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -924,6 +1053,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -952,6 +1085,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -980,6 +1117,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1008,6 +1149,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1036,6 +1181,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1064,6 +1213,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1092,6 +1245,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1120,6 +1277,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1148,6 +1309,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1176,6 +1341,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1204,6 +1373,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1232,6 +1405,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1260,6 +1437,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1288,6 +1469,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1316,6 +1501,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1344,6 +1533,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1372,6 +1565,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1400,6 +1597,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1428,6 +1629,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1456,6 +1661,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1484,6 +1693,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1512,6 +1725,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1540,6 +1757,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1568,6 +1789,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1596,6 +1821,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1624,6 +1853,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1652,6 +1885,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1680,6 +1917,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1708,6 +1949,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1736,6 +1981,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1764,6 +2013,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1792,6 +2045,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1820,6 +2077,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1848,6 +2109,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1876,6 +2141,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1904,6 +2173,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1932,6 +2205,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1960,6 +2237,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -1988,6 +2269,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -2016,6 +2301,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -2044,6 +2333,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -2072,6 +2365,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -2100,6 +2397,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -2128,6 +2429,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
@@ -2156,6 +2461,10 @@
                 <td><b>Returns</b></td>
                 <td>ReturnDescription</td>
             </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
         </table>
     </p>
 </div>
