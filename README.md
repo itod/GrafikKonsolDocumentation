@@ -4,6 +4,7 @@
 
 
 
+
 <div>
     <p>
         <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
@@ -578,6 +579,43 @@
         <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
+                <td><b>chr()</b></td>
+            </tr>
+            <tr>
+                <td><b>Description</b></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><b>Syntax</b></td>
+                <td>
+                    <code>
+                        <i>String</i> <b>chr</b>(number)
+                    </code>
+                </td>
+            </tr>
+            <tr>
+                <td><b>Parameters</b></td>
+                <td>
+                    <div><b><code>number</code></b> : </div>
+                </td>
+            </tr>
+            <tr>
+                <td><b>Returns</b></td>
+                <td><i>String</i></td>
+            </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
+        </table>
+    </p>
+</div>
+
+<div>
+    <p>
+        <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
+            <tr>
+                <td><b>Name</b></td>
                 <td><b>compare()</b></td>
             </tr>
             <tr>
@@ -626,7 +664,7 @@
                 <td><b>Syntax</b></td>
                 <td>
                     <code>
-                        <i>Boolean</i> <b>contains</b>(rectArray, pointArray, shapeMode?)
+                        <i>Boolean</i> <b>contains</b>(rectArray, pointArray, rectMode?)
                     </code>
                 </td>
             </tr>
@@ -635,7 +673,7 @@
                 <td>
                     <div><b><code>rectArray</code></b> : </div>
                     <div><b><code>pointArray</code></b> : </div>
-                    <div><b><code>shapeMode?</code></b> : </div>
+                    <div><b><code>rectMode?</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -840,42 +878,6 @@
         <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
-                <td><b>draw()</b></td>
-            </tr>
-            <tr>
-                <td><b>Description</b></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td><b>Syntax</b></td>
-                <td>
-                    <code>
-                        <i>Void</i> <b>draw</b>()
-                    </code>
-                </td>
-            </tr>
-            <tr>
-                <td><b>Parameters</b></td>
-                <td>
-                </td>
-            </tr>
-            <tr>
-                <td><b>Returns</b></td>
-                <td><i>Void</i></td>
-            </tr>
-            <!-- <tr>
-                <td><b>Related</b></td>
-                <td></td>
-            </tr> -->
-        </table>
-    </p>
-</div>
-
-<div>
-    <p>
-        <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
-            <tr>
-                <td><b>Name</b></td>
                 <td><b>ellipse()</b></td>
             </tr>
             <tr>
@@ -897,6 +899,43 @@
                     <div><b><code>y?</code></b> : </div>
                     <div><b><code>width?</code></b> : </div>
                     <div><b><code>height?</code></b> : </div>
+                </td>
+            </tr>
+            <tr>
+                <td><b>Returns</b></td>
+                <td><i>Void</i></td>
+            </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
+        </table>
+    </p>
+</div>
+
+<div>
+    <p>
+        <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
+            <tr>
+                <td><b>Name</b></td>
+                <td><b>ellipseMode()</b></td>
+            </tr>
+            <tr>
+                <td><b>Description</b></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><b>Syntax</b></td>
+                <td>
+                    <code>
+                        <i>Void</i> <b>ellipseMode</b>(mode)
+                    </code>
+                </td>
+            </tr>
+            <tr>
+                <td><b>Parameters</b></td>
+                <td>
+                    <div><b><code>mode</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1518,42 +1557,6 @@
         <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
-                <td><b>mouseDragged()</b></td>
-            </tr>
-            <tr>
-                <td><b>Description</b></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td><b>Syntax</b></td>
-                <td>
-                    <code>
-                        <i>Void</i> <b>mouseDragged</b>()
-                    </code>
-                </td>
-            </tr>
-            <tr>
-                <td><b>Parameters</b></td>
-                <td>
-                </td>
-            </tr>
-            <tr>
-                <td><b>Returns</b></td>
-                <td><i>Void</i></td>
-            </tr>
-            <!-- <tr>
-                <td><b>Related</b></td>
-                <td></td>
-            </tr> -->
-        </table>
-    </p>
-</div>
-
-<div>
-    <p>
-        <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
-            <tr>
-                <td><b>Name</b></td>
                 <td><b>noFill()</b></td>
             </tr>
             <tr>
@@ -1626,6 +1629,43 @@
         <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
+                <td><b>ord()</b></td>
+            </tr>
+            <tr>
+                <td><b>Description</b></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><b>Syntax</b></td>
+                <td>
+                    <code>
+                        <i>Number</i> <b>ord</b>(string)
+                    </code>
+                </td>
+            </tr>
+            <tr>
+                <td><b>Parameters</b></td>
+                <td>
+                    <div><b><code>string</code></b> : </div>
+                </td>
+            </tr>
+            <tr>
+                <td><b>Returns</b></td>
+                <td><i>Number</i></td>
+            </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
+        </table>
+    </p>
+</div>
+
+<div>
+    <p>
+        <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
+            <tr>
+                <td><b>Name</b></td>
                 <td><b>popStyle()</b></td>
             </tr>
             <tr>
@@ -1682,44 +1722,6 @@
                     <div><b><code>sequence</code></b> : </div>
                     <div><b><code>object</code></b> : </div>
                     <div><b><code>compareIdentity?</code></b> : </div>
-                </td>
-            </tr>
-            <tr>
-                <td><b>Returns</b></td>
-                <td><i>Number</i></td>
-            </tr>
-            <!-- <tr>
-                <td><b>Related</b></td>
-                <td></td>
-            </tr> -->
-        </table>
-    </p>
-</div>
-
-<div>
-    <p>
-        <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
-            <tr>
-                <td><b>Name</b></td>
-                <td><b>pow()</b></td>
-            </tr>
-            <tr>
-                <td><b>Description</b></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td><b>Syntax</b></td>
-                <td>
-                    <code>
-                        <i>Number</i> <b>pow</b>(n, e)
-                    </code>
-                </td>
-            </tr>
-            <tr>
-                <td><b>Parameters</b></td>
-                <td>
-                    <div><b><code>n</code></b> : </div>
-                    <div><b><code>e</code></b> : </div>
                 </td>
             </tr>
             <tr>
@@ -1966,6 +1968,43 @@
         <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
             <tr>
                 <td><b>Name</b></td>
+                <td><b>rectMode()</b></td>
+            </tr>
+            <tr>
+                <td><b>Description</b></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><b>Syntax</b></td>
+                <td>
+                    <code>
+                        <i>Void</i> <b>rectMode</b>(mode)
+                    </code>
+                </td>
+            </tr>
+            <tr>
+                <td><b>Parameters</b></td>
+                <td>
+                    <div><b><code>mode</code></b> : </div>
+                </td>
+            </tr>
+            <tr>
+                <td><b>Returns</b></td>
+                <td><i>Void</i></td>
+            </tr>
+            <!-- <tr>
+                <td><b>Related</b></td>
+                <td></td>
+            </tr> -->
+        </table>
+    </p>
+</div>
+
+<div>
+    <p>
+        <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
+            <tr>
+                <td><b>Name</b></td>
                 <td><b>redraw()</b></td>
             </tr>
             <tr>
@@ -2172,79 +2211,6 @@
                 <td>
                     <div><b><code>width</code></b> : </div>
                     <div><b><code>height?</code></b> : </div>
-                </td>
-            </tr>
-            <tr>
-                <td><b>Returns</b></td>
-                <td><i>Void</i></td>
-            </tr>
-            <!-- <tr>
-                <td><b>Related</b></td>
-                <td></td>
-            </tr> -->
-        </table>
-    </p>
-</div>
-
-<div>
-    <p>
-        <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
-            <tr>
-                <td><b>Name</b></td>
-                <td><b>setup()</b></td>
-            </tr>
-            <tr>
-                <td><b>Description</b></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td><b>Syntax</b></td>
-                <td>
-                    <code>
-                        <i>Void</i> <b>setup</b>()
-                    </code>
-                </td>
-            </tr>
-            <tr>
-                <td><b>Parameters</b></td>
-                <td>
-                </td>
-            </tr>
-            <tr>
-                <td><b>Returns</b></td>
-                <td><i>Void</i></td>
-            </tr>
-            <!-- <tr>
-                <td><b>Related</b></td>
-                <td></td>
-            </tr> -->
-        </table>
-    </p>
-</div>
-
-<div>
-    <p>
-        <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
-            <tr>
-                <td><b>Name</b></td>
-                <td><b>shapeMode()</b></td>
-            </tr>
-            <tr>
-                <td><b>Description</b></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td><b>Syntax</b></td>
-                <td>
-                    <code>
-                        <i>Void</i> <b>shapeMode</b>(mode)
-                    </code>
-                </td>
-            </tr>
-            <tr>
-                <td><b>Parameters</b></td>
-                <td>
-                    <div><b><code>mode</code></b> : </div>
                 </td>
             </tr>
             <tr>
