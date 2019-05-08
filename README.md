@@ -312,6 +312,7 @@ pow(4, 3) // 64
 </pre>
 </div>
 
+<hr/>
 
 <div>
 <a name="func"></a>
