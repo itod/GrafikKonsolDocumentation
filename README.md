@@ -1,7 +1,6 @@
 <h1>Graphik Konsol Documentation</h1>
 
-<h2>Konsol Skript Function Reference</h2>
-
+<h2>KonsolSkript Reference</h2>
   
 <hr/>  
 
@@ -107,9 +106,9 @@
 
 <p>KonsolSkript is a simple, dynamic, interpreted scripting language designed for use in the <a href="http://celestialteapot.com/grafikkonsol/">Grafik Konsol</a> application. KonsolSkript is implemented in Objective-C using a Test-Driven Development style (it has decent test coverage) and is <a href="https://github.com/itod/Language">open-source</a>.</p>
 
-<p>KonsolSkript is heavily influenced by several popular languages, including Python, JavaScript and XPath. It is intended to be appropriate for users learning their very first programming langauge.</p>
+<p>KonsolSkript is heavily influenced by several popular languages, including Python, JavaScript and XPath. It is intended to be appropriate for simple graphics scripting, but also for users learning their very first programming language</p>
 
-<p>KonsolSkript is object-based (everthing is an Object), but not (yet) object-oriented – there is no <code>class</code> construct available to users.</p>
+<p>KonsolSkript is object-based (everthing is an Object), but not (exactly) object-oriented – there is no <code>class</code> construct available to users.</p>
 
 <p>KonsolSkript features functions using the <code>sub</code> construct (short for subroutine). Functions are first-class objects as in Python or JavaScript, and may be treated like any other variable. A function can be passed as an argument to other functions, can be returned by another function and can be assigned as a value to a variable.</p>
 </div>
@@ -126,7 +125,7 @@ type(1.0)   // 'Number'
 type('')    // 'String'
 type([])    // 'Array'
 type({})    // 'Dictionary'
-type(sub(){return false}) // 'Subroutine'
+type(sub(){}) // 'Subroutine'
 </pre>
 </div>
 <h3>Object</h3>
@@ -162,7 +161,7 @@ type(sub(){return false}) // 'Subroutine'
 <a name="num"></a>
 <h3>Number</h3>
 
-<p>A number represents a floating-point number. A number can have any double-precision 64-bit format IEEE 754 value. These include a special "Not-a-Number" (<code>NaN</code>) value, positive and negative infinity, and positive and negative zero.</p>
+<p>A number represents a floating-point number. A number can have any double-precision 64-bit format IEEE 754 value. These include a special "Not-a-Number" (<code>NaN</code>) value, positive <code>Infinity</code>, and positive and negative zero.</p>
 
 <p>There are three different ways to represent a Number literal. All three types allow underscore separator chars (<code>_</code>) anywhere within the Number literal – these can be used to enhance readability but have no effect on the literal value.</p>
 
@@ -178,7 +177,7 @@ type(sub(){return false}) // 'Subroutine'
         </pre>
     </li>
     <li>
-        <p><i>Hexadecimal</i> Number literals consist of an octothorpe (<code>#</code>) followed by a sequence of case-insensitive hexadecimal digits (<code>0-9</code>, <code>A-F</code> or <code>a-f</code>).</p>
+        <p><i>Hexadecimal</i> Number literals consist of an octothorpe (<code>#</code>) followed by a sequence of case-insensitive hexadecimal digits (<code>0-9</code>, <code>A-F</code> or <code>a-f</code>). This is particularly convenient for specifying hex color values (as in CSS) when using calling builtin functions which deal with colors.</p>
         <pre>
     #FFFFFF
     #00CC77
@@ -186,7 +185,7 @@ type(sub(){return false}) // 'Subroutine'
         </pre>
     </li>
     <li>
-        <p><i>Binary</i> Number literals consist of a dollar sign (<code>$</code>) followed by a sequence of binary digits (<code>0-1</code>).</p>
+        <p><i>Binary</i> Number literals consist of a dollar sign (<code>$</code>) followed by a sequence of binary digits (<code>0-1</code>). This is useful for learning bit-fiddling.</p>
         <pre>
     $1111
     $0101_0000
