@@ -314,6 +314,9 @@ pow(4, 3) // 64
 
 
 <div>
+<a name="func"></a>
+
+<div>
     <a name="fn-Array"></a>
     <p>
         <table width="100%" border="1" cellpadding="10" style="border-collapse:collapse;">
@@ -3166,4 +3169,5 @@ pow(4, 3) // 64
             </tr> -->
         </table>
     </p>
+</div>
 </div>
