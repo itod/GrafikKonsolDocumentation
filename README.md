@@ -259,6 +259,7 @@ $0101_0000
 
 <pre>
 '"Hello", he said.'
+
 "It's ok."
 </pre>
 
@@ -272,7 +273,9 @@ $0101_0000
 
 <pre>
 'Number: %d' % 1 // 'Number 1'
+
 'Herr %s, Frau %s' % ['Schröder', 'Müller'] // 'Herr Schröder, Frau Müller'
+
 "Float format : %0.2f" % 1.0 // 'Float format : 1.00'
 </pre>
 </div>
