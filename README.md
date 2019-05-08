@@ -116,6 +116,9 @@
     </ul>
 </p>
 
+<hr/>
+
+
 <div>
 <a name="lang"></a>
 <h2>Language</h2>
@@ -128,6 +131,8 @@
 
 <p>KonsolSkript features functions using the <code>sub</code> construct (short for subroutine). Functions are first-class objects as in Python or JavaScript, and may be treated like any other variable. A function can be passed as an argument to other functions, can be returned by another function and can be assigned as a value to a variable.</p>
 </div>
+
+<hr/>
 
 <div>
 <a name="types"></a>
@@ -144,12 +149,16 @@ type({})    // 'Dictionary'
 type(sub(){}) // 'Subroutine'
 </pre>
 </div>
-<h3>Object</h3>
+
+<hr/>
 
 <div>
+<h3>Object</h3>
 <a name="object"></a>
 <p>Object is the abstract base class of all objects in KonsolSkript.</p>
 </div>
+
+<hr/>
 
 <div>
 <a name="null"></a>
@@ -157,6 +166,8 @@ type(sub(){}) // 'Subroutine'
 
 <p>This type has a single value. There is a single object with this value. This object is accessed through the built-in name <code>null</code>. It is used to signify the absence of a value in many situations, e.g., it is returned from functions that don’t explicitly return anything. Its truth value is false.</p>
 </div>
+
+<hr/>
 
 <div>
 <a name="bool"></a>
@@ -172,6 +183,8 @@ type(sub(){}) // 'Subroutine'
 
 <p>When the operator is <code>&lt;=</code>, <code>&lt;</code>, <code>&gt;=</code> or <code>&gt;</code>, then the objects are compared by converting both objects to numbers and comparing the numbers according to IEEE 754. The <code>&lt;</code> comparison will be true if and only if the first number is less than the second number. The <code>&lt;=</code> comparison will be true if and only if the first number is less than or equal to the second number. The <code>&gt;</code> comparison will be true if and only if the first number is greater than the second number. The <code>&gt;=</code> comparison will be true if and only if the first number is greater than or equal to the second number.</p>
 </div>
+
+<hr/>
 
 <div>
 <a name="num"></a>
@@ -230,6 +243,8 @@ $0101_0000
 <p>NOTE: This is not the same as the IEEE 754 remainder operation, which returns the remainder from a rounding division.</p>
 </div>
 
+<hr/>
+
 <div>
 <a name="str"></a>
 <h3>String</h3>
@@ -237,7 +252,6 @@ $0101_0000
 <p>A String is a sequence of values that represent Unicode code points. All the code points in the range <code>U+0000 - U+10FFFF</code> can be represented in a String. The built-in function <code><a href="#fn-ord">ord()</a></code> converts a code point from its String form to an integer in the range <code>0 - 10FFFF</code>; <code><a href="#fn-chr">chr()</a></code> converts an integer in the range <code>0 - 10FFFF</code> to the corresponding length 1 String object.</p>
 
 <p>More documentation is obviously needed here, but KonsolSkript is implemented in Objective-C, so various features of KS String objects will obviously mirror aspects of <code>NSString</code> from Objective-C.</p>
-</div>
 
 <h3>String Literals</h3>
 <a name="str-lit"></a>
@@ -261,6 +275,9 @@ $0101_0000
 'Herr %s, Frau %s' % ['Schröder', 'Müller'] // 'Herr Schröder, Frau Müller'
 "Float format : %0.2f" % 1.0 // 'Float format : 1.00'
 </pre>
+</div>
+
+<hr/>
 
 <div>
 <a name="array"></a>
@@ -299,6 +316,8 @@ print(a[1:2]) // ['x', 'y']
 <p>Arrays may be concatenated using the <code>+</code> operator, but both operands must be of type Array or a <code>TypeError</code> will be thrown at runtime.</p>
 </div>
 
+<hr/>
+
 <div>
 <a name="dict"></a>
 <h3>Dictionary</h3>
@@ -313,9 +332,10 @@ print(d['baz']) // null
 </pre>
 </div>
 
+<hr/>
+
 <div>
 <a name="sub"></a>
-
 <h3>Subroutine</h3>
 
 <p>The terms "function" and "subroutine" are used completely interchangeably in the context of KonsolSkript. In this context, "subroutine" simply means "function" (all subroutines/functions may return a value). But the official type name is <code>Subroutine</code>.</p>
