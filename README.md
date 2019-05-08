@@ -14,6 +14,10 @@
                 <li><a href="#bool">Boolean</a></li>
                 <li><a href="#num">Number</a></li>
                 <li><a href="#str">String</a></li>
+                <ul>
+                    <li><a href="str-lit">String Literals</a></li>
+                    <li><a href="str-fmt">String Formatting</a></li>
+                </ul>
                 <li><a href="#array">Array</a></li>
                 <li><a href="#dict">Dictionary</a></li>
                 <li><a href="#sub">Subroutine</a></li>
@@ -236,6 +240,7 @@ $0101_0000
 </div>
 
 <h3>String Literals</h3>
+<a name="str-lit"></a>
 <p>String literals are represented with either single or double quotes:</p>
 
 <pre>
@@ -243,7 +248,9 @@ $0101_0000
 "It's ok."
 </pre>
 
+
 <h3>String Formatting</h3>
+<a name="str-fmt"></a>
 
 <p>Strings may be concatenated using the <code>+</code> operator, but both operands must be of type String or a <code>TypeError</code> will be thrown at runtime.</p>
 
