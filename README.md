@@ -19,6 +19,18 @@
                 <li><a href="#sub">Subroutine</a></li>
             </ul>
         </li>
+        <li><a href="#var">Variable Declarations</a></li>
+        <li><a href="#stat">Statement Terminators</a></li>
+        <li><a href="#logic">Boolean Logic</a></li>
+        <li><a href="#eq">Equality</a></li>
+        <li><a href="#cond-loop">Conditionals / Looping</a>
+            <ul>
+                <li><a href="#if">if</a></li>
+                <li><a href="#while">while</a></li>
+                <li><a href="#for">for / in</a></li>
+            </ul>
+        </li>
+        <li><a href="#exceptions">Exception Handling</a></li>
         <li><a href="#func">Builtin Functions</a>
             <ul>
                 <li><a href="#fn-Array">Array()</a></li>
@@ -168,32 +180,32 @@ type(sub(){}) // 'Subroutine'
 <ul>
     <li>
         <p><i>Decimal</i> Number literals consist of an optionally signed sequence of digits with an optional decimal point and fractional part.</p>
-        <pre>
-    42
-    -280
-    3.14
-    47.
-    1_000_000
-        </pre>
+<pre>
+42
+-280
+3.14
+47.
+1_000_000
+</pre>
     </li>
     <li>
         <p><i>Hexadecimal</i> Number literals consist of an octothorpe (<code>#</code>) followed by a sequence of case-insensitive hexadecimal digits (<code>0-9</code>, <code>A-F</code> or <code>a-f</code>). This is particularly convenient for specifying hex color values (as in CSS) when calling builtin functions which deal with colors.</p>
-        <pre>
-    #FFFFFF
-    #00CC77
-    #00_CC_77
-        </pre>
+<pre>
+#FFFFFF
+#00CC77
+#00_CC_77
+</pre>
     </li>
     <li>
         <p><i>Binary</i> Number literals consist of a dollar sign (<code>$</code>) followed by a sequence of binary digits (<code>0-1</code>). This is useful for learning bit-fiddling.</p>
-        <pre>
-    $1111
-    $0101_0000
-        </pre>
+<pre>
+$1111
+$0101_0000
+</pre>
     </li>
 </ul>
 
-<p>The numeric operators convert their operands to numbers as if by calling the <code><a href="#fn-Number">Number</a></code> function.</p>
+<p>Arithmetic may only be performed on two Number operands – The operands of a numeric operator are type-checked at runtime. A <code>TypeError</code> runtime exception is thrown if the first operand is a Number, and the second is not.</p>
 
 <p>The <code>+</code> operator performs addition.</p>
 
@@ -204,10 +216,10 @@ type(sub(){}) // 'Subroutine'
 <p>The % operator returns the remainder from a truncating division. For example,</p>
 
 <pre>
-     5 %  2  // 1
-     5 % -2  // 1
-    -5 %  2  // -1
-    -5 % -2  // -1
+ 5 %  2  // 1
+ 5 % -2  // 1
+-5 %  2  // -1
+-5 % -2  // -1
 </pre>
 
 <p>NOTE: This is the same as the <code>%</code> operator in Java and ECMAScript.</p>
@@ -223,6 +235,26 @@ type(sub(){}) // 'Subroutine'
 <p>More documentation is obviously needed here, but KonsolSkript is implemented in Objective-C, so various features of KS String objects will obviously mirror aspects of <code>NSString</code> from Objective-C.</p>
 </div>
 
+<h3>String Literals</h3>
+<p>String literals are represented with either single or double quotes:</p>
+
+<pre>
+'"Hello", he said.'
+"It's ok."
+</pre>
+
+<h3>String Formatting</h3>
+
+<p>Strings may be concatenated using the <code>+</code> operator, but both operands must be of type String or a <code>TypeError</code> will be thrown at runtime.</p>
+
+<p>String formatting is done using the <code>%</code> operator with a string object on the left-hand side, and a single object or an array of objects on the right-hand side, similar to Python. The available format specifiers are <code>%s</code>, <code>%d</code>, <code>%i</code>, and <code>%f</code>.</p>
+
+<pre>
+'Number: %d' % 1 // 'Number 1'
+'Herr %s, Frau %s' % ['Schröder', 'Müller'] // 'Herr Schröder, Frau Müller'
+"Float format : %0.2f" % 1.0 // 'Float format : 1.00'
+</pre>
+
 <div>
 <a name="array"></a>
 <h3>Array</h3>
@@ -232,11 +264,11 @@ type(sub(){}) // 'Subroutine'
 <ul>
     <li>KonsolSkript Arrays are 1-index based (like XPath), not 0-index based (like Python).</li>
     <li>The following syntax (borrowed from PHP) is used for appending an object to an Array in KS:
-    <pre>
-    var a = ['x'] // create array
-    a[] = 'y'     // appends 'y'
-    a[] = 'z'     // appends 'z'
-    print(a)      // ['x', 'y', 'z']
+<pre>
+var a = ['x'] // create array
+a[] = 'y'     // appends 'y'
+a[] = 'z'     // appends 'z'
+print(a)      // ['x', 'y', 'z']
 </pre>
     </li>
     
@@ -245,17 +277,19 @@ type(sub(){}) // 'Subroutine'
 <p>Python-style Array slicing is fully supported in KonsolSkript Arrays (again, with the difference that KS Arrays are 1-index based).</p>
 
 <pre>
-    // …continued from above
-    print(a)      // ['x', 'y', 'z']
-    print(a[1])   // 'x'
-    print(a[2])   // 'y'
-    print(a[-1])  // 'z'
-    print(a[-2])  // 'y'
-    print(a[:])   // ['x', 'y', 'z']
-    print(a[:1])  // 'x'
-    print(a[3:])  // 'z'
-    print(a[1:2]) // ['x', 'y']
+// …continued from above
+print(a)      // ['x', 'y', 'z']
+print(a[1])   // 'x'
+print(a[2])   // 'y'
+print(a[-1])  // 'z'
+print(a[-2])  // 'y'
+print(a[:])   // ['x', 'y', 'z']
+print(a[:1])  // 'x'
+print(a[3:])  // 'z'
+print(a[1:2]) // ['x', 'y']
 </pre>
+
+<p>Arrays may be concatenated using the <code>+</code> operator, but both operands must be of type Array or a <code>TypeError</code> will be thrown at runtime.</p>
 </div>
 
 <div>
@@ -265,10 +299,10 @@ type(sub(){}) // 'Subroutine'
 <p>KonsolSkript Dictionaries are virtually identical to Dictionaries in Python, with the exception that accessing a key which is not present in the Dictionary returns <code>null</code> rather than throwing an exception.</p>
 
 <pre>
-    var d = {'foo': 1}
-    d['bar'] = 2
-    print(d)        // {'foo': 1, 'bar': 2}
-    print(d['baz']) // null
+var d = {'foo': 1}
+d['bar'] = 2
+print(d)        // {'foo': 1, 'bar': 2}
+print(d['baz']) // null
 </pre>
 </div>
 
@@ -308,6 +342,163 @@ sub pow(base, exp=2) {
 
 pow(4)    // 16
 pow(4, 3) // 64
+</pre>
+</div>
+
+<hr/>
+
+<div>
+<a name="var"></a>
+<h2>Variable Declarations</h2>
+<p>Variables are declared with the <code>var</code> keyword.</p>
+
+<pre>
+var foo = 'bar'
+var baz = 1.0
+</pre>
+
+</div>
+
+<hr/>
+
+
+<div>
+<a name="stat"></a>
+<h2>Statement Terminators</h2>
+<p>Statements may be explicitly terminated with a semicolon, or the semicolon may be omitted where new lines are inserted.</p>
+
+<pre>
+var foo = 'bar';
+</pre>
+</div>
+
+<hr/>
+
+<div>
+<a name="logic"></a>
+<h2>Boolean Logic</h2>
+<p>Boolean logic is expressed with <code>and</code>, <code>or</code>, <code>not</code> and <code>!</code> (the last two are synonyms).</p>
+
+</div>
+
+<hr/>
+
+<div>
+<a name="eq"></a>
+<h2>Equality</h2>
+<p>Object equality is tested using <code>==</code> and <code>!=</code>. Object identity is tested using <code>is</code>.</p>
+
+</div>
+
+<hr/>
+
+
+<div>
+<a name="cond-loop"></a>
+<h2>Conditionals / Looping</h2>
+
+<p>Curly braces are always required around statements within a conditional or looping construct – even when there is only one such statement.</p>
+
+<div>
+<a name="if"></a>
+<h3>if</h3>
+
+
+<pre>
+if a > b or b == 0 {
+    // …
+}
+</pre>
+
+</div>
+
+<div>
+<a name="while"></a>
+<h3>while</h3>
+
+<pre>
+while a > b and b != 0 {
+    // …
+}
+</pre>
+</div>
+
+<div>
+<a name="for"></a>
+<h3>for / in</h3>
+
+<p>For loops are often used in conjunction with the <a href="#fn-range"><code>range()</code></a> function inspired by Python – with the difference that the resulting iterable object is 1-index based and <i>inclusive</i>.</p>
+
+<p>The following are identical:</p>
+
+<pre>
+for i in range(3) {
+    // 1,2,3
+}
+
+for i in range(1, 3) {
+    // 1,2,3
+}
+
+for i in range(1, 3, 1) {
+    // 1,2,3
+}
+</pre>
+
+<p>For loops can be used with any iterable type – String, Array or Dictionary:</p>
+
+<pre>
+for c in 'abc' {
+    // 'a','b','c'
+}
+
+for item in ['x', 'y', 'z'] {
+    // 'x','y','z'
+}
+
+var d = {'foo':1, 'bar':2}
+for key,val in d {
+    print('%s: %s' % [key, val])
+}
+</pre>
+</div>
+
+</div> <!-- cond/loop -->
+
+<hr/>
+
+<div>
+<a name="exceptions"></a>
+<h2>Exception Handling</h2>
+
+<p>Exception handling is supported via the <code>try</code> / <code>catch</code> / <code>finally</code> construct, very similar to JavaScript.</p>
+
+<pre>
+var resource = checkOut()
+
+try {
+    use(resource)
+}
+catch ex {
+    print(ex)
+}
+finally {
+    checkIn(resource)
+}
+</pre>
+
+<p>There is currently no "Exception" type. Any "exception" object thrown by the system is a Dictionary with the following string keys:</p>
+
+<ul>
+    <li><code>'name'</code> – the name of the exception type.</li>
+    <li><code>'reason'</code> – a message describing why the exception occurred.</li>
+    <li><code>'line'</code> – the line number where the exception occurred.</li>
+</ul>
+
+<p>There is also a <code>throw</code> construct available to users for custom exception handling or flow control. Objects of any type may be thrown.</p>
+
+<pre>
+throw 'foo'
 </pre>
 </div>
 
