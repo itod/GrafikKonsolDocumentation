@@ -253,7 +253,7 @@ $0101_0000
 
 <p>More documentation is obviously needed here, but KonsolSkript is implemented in Objective-C, so various features of KS String objects will obviously mirror aspects of <code>NSString</code> from Objective-C.</p>
 
-<h3>String Literals</h3>
+<h4>String Literals</h4>
 <a name="str-lit"></a>
 <p>String literals are represented with either single or double quotes:</p>
 
@@ -263,7 +263,7 @@ $0101_0000
 </pre>
 
 
-<h3>String Formatting</h3>
+<h4>String Formatting</h4>
 <a name="str-fmt"></a>
 
 <p>Strings may be concatenated using the <code>+</code> operator, but both operands must be of type String or a <code>TypeError</code> will be thrown at runtime.</p>
