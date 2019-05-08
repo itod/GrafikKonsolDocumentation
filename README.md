@@ -315,6 +315,7 @@ pow(4, 3) // 64
 
 <div>
 <a name="func"></a>
+<h2>Builtin Functions/Subroutines</h2>
 
 <div>
     <a name="fn-Array"></a>
