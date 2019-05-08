@@ -177,7 +177,7 @@ type(sub(){}) // 'Subroutine'
         </pre>
     </li>
     <li>
-        <p><i>Hexadecimal</i> Number literals consist of an octothorpe (<code>#</code>) followed by a sequence of case-insensitive hexadecimal digits (<code>0-9</code>, <code>A-F</code> or <code>a-f</code>). This is particularly convenient for specifying hex color values (as in CSS) when using calling builtin functions which deal with colors.</p>
+        <p><i>Hexadecimal</i> Number literals consist of an octothorpe (<code>#</code>) followed by a sequence of case-insensitive hexadecimal digits (<code>0-9</code>, <code>A-F</code> or <code>a-f</code>). This is particularly convenient for specifying hex color values (as in CSS) when calling builtin functions which deal with colors.</p>
         <pre>
     #FFFFFF
     #00CC77
